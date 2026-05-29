@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "home": {
+      "title": "meuLinux | Find and download your ideal Linux distro",
+      "description": "Discover the Linux world with meuLinux. Find the best distributions, installation guides, post-install tutorials, and much more for beginners and power users."
+    },
+    "about": {
+      "title": "About meuLinux | Our Mission and History",
+      "description": "Learn about the history and mission of meuLinux. Created to simplify access to Linux through curation, tutorials, and smart utilities."
+    },
+    "content": {
+      "title": "Essential Content | Linux Tutorials and Guides",
+      "description": "Explore curated articles, step-by-step tutorials, and essential guides written to streamline your day-to-day Linux journey."
+    },
+    "contact": {
+      "title": "Contact | Get in Touch with Us",
+      "description": "Reach out to the meuLinux team. Send your questions, suggestions, feedback, or contribution proposals to our developers."
+    },
+    "distromatch": {
+      "title": "DistroMatch | Linux Distro Selector tool",
+      "description": "Take our strategic questionnaire and let our custom recommendation engine match you with the perfect Linux distribution based on your specs and workflow."
+    },
+    "contribua": {
+      "title": "Contribute | Support the meuLinux Initiative",
+      "description": "Help us cover hosting bills, upgrade our localized servers, improve our AI tutoring engines, and keep delivering free knowledge to everyone."
+    },
+    "postinstall": {
+      "title": "Post-Installation | System Optimization Guides",
+      "description": "Quickly setup, secure, and customize your system step-by-step immediately after booting into your newly-installed Linux distro."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "content": "Content",
+    "contact": "Contact",
+    "support": "Contribute",
+    "light_mode": "Light Mode",
+    "dark_mode": "Dark Mode",
+    "close_menu": "Close Menu",
+    "open_menu": "Open Menu",
+    "nav_home": "Home",
+    "learn": "DistroMatch"
+  },
+  "hero": {
+    "title": "Find your ideal Linux",
+    "subtitle": "Discover which distro matches your flow",
+    "searchPlaceholder": "Search Linux distros...",
+    "searchButton": "Search",
+    "beginnerText": "New to Linux?",
+    "beginnerLink": "DistroMatch",
+    "beginnerSubtext": "For a more personalized search.",
+    "bannerAlt": "Uncomplicated Linux E-book — Ultimate Guide | meuLinux.com",
+    "bannerTitle": "Download the free Uncomplicated Linux e-book",
+    "postDownloadTitle": "What to do after downloading your distro?",
+    "viewArticle": "Learn more",
+    "distroListTitle": "Find and download your Linux distro",
+    "backToTop": "Back to top",
+    "allDistros": "All distros",
+    "learnMore": "Learn More & Download",
+    "viewMore": "View more distros",
+    "viewAll": "View all distros",
+    "personalizedSearch": "I want to do a more personalized search",
+    "learnButton": "I Want to Learn"
+  },
+  "categories": {
+    "All distros": "All distros",
+    "Best to start": "Best to start",
+    "PC Antigo": "Vintage PCs",
+    "Programming": "Programming",
+    "Gaming": "Gaming",
+    "Hacking": "Hacking",
+    "Privacy": "Privacy",
+    "Brasileiras": "Brazilian Distros"
+  },
+  "about": {
+    "hero_title": "Purposeful Freedom",
+    "hero_subtitle": "Learn more about the project",
+    "main_text": "Created in 2020 by web developer and graphic designer Filipi Hadji, meuLinux was born with the purpose of simplifying access to various Linux distros, allowing users to easily find the ideal option to meet their needs. With the help of smart filters and efficient tags, we make browsing and searching for Linux distros easy, clean, and simple.",
+    "quote": "We simplify access to multiple Linux distros",
+    "curation_text": "We constantly perform careful curation, highlighting the distros that stand out and suit each unique user profile.",
+    "features_title": "About Linux Distros",
+    "features": [
+      { "title": "Privacy", "desc": "Robust privacy, open-source code, and ultimate control within your grasp." },
+      { "title": "Development", "desc": "Developers enjoy absolute freedom, unmatched stability, and advanced tooling." },
+      { "title": "Community", "desc": "Collaborative problem solving, endless forums, and strength in diversity." },
+      { "title": "Customization", "desc": "Limitless customization options to adapt your system to your personal style." }
+    ],
+    "footer_title": "Are you ready for a truly free and customized computing experience?",
+    "footer_text": "We believe in robust privacy, open source, and full control at your fingertips. Explore our website and discover a wide variety of choices. Developers, designers, photographers, video editors, students, and general users will find top stability, advanced tools, and a passionate global community ready to help.",
+    "footer_join": "Join us today and embark on a freer computational journey.",
+    "footer_button": "Access our Essential Content",
+    "donation_title1": "Enjoying the project?",
+    "donation_title2": "How about buying a coffee for the developer? ☕"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Great to have you here!",
+    "contact_instruction": "Send your suggestions, ideas, or contributions to this email:",
+    "email": "filipi.hadji.dsg@gmail.com",
+    "contact_thanks": "Thank you so much for reaching out, I will reply as soon as possible.",
+    "donation_title1": "Enjoying the project?",
+    "donation_title2": "How about buying a coffee for the developer? ☕"
+  },
+  "learn_linux": {
+    "hero_title": "Learn Linux & DevOps",
+    "hero_subtitle": "From beginner to intermediate, with real-time AI guidance and a certificate awarded at the end of each track. Start your journey now!",
+    "explore_tracks": "Log In to My Account",
+    "create_account": "Create Free Account",
+    "tracks_title": "Our Learning Tracks",
+    "tracks_subtitle": "Start with the Essential Track and unlock advanced training in Networks, Cryptography, and Cybersecurity.",
+    "start_track": "Start Learning Track",
+    "coming_soon": "Coming Soon",
+    "why_title": "Why choose meuLinux?",
+    "features": [
+      { "title": "Quality Content", "desc": "Curated by industry experts leveraging real-world scenarios and labs." },
+      { "title": "Certifications", "desc": "Earn official badges and resume-ready certificates upon completion." },
+      { "title": "Real-time AI Support", "desc": "Our specialized AI tutor is available 24/7 to answer any technical questions." },
+      { "title": "Clear Progression", "desc": "Gamified learning experiences designed to keep you motivated." }
+    ],
+    "ready_title": "Ready to Start? It's 100% Free!",
+    "ready_subtitle": "Join thousands of students and launch your journey into the world of Linux and DevOps today."
+  },
+  "footer": {
+    "tagline": "Simplifying access to various Linux distros since 2020. Find your digital freedom here.",
+    "pages_heading": "Pages",
+    "home": "Home",
+    "about": "About",
+    "content": "Content",
+    "contact": "Contact",
+    "contribua": "Contribute",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "social": "Follow Us",
+    "copyright": "© 2026 meuLinux. All rights reserved."
+  },
+  "detail": {
+    "notFound": "Content not available",
+    "backHome": "Go to Homepage",
+    "about": "About",
+    "desktopEnvironments": "Available desktop environments:",
+    "mainFeatures": "Key features:",
+    "packageManager": "Package manager:",
+    "preInstalledSoftware": "Pre-installed software:",
+    "hardwareCompatibility": "Hardware compatibility:",
+    "communitySupport": "Community & support:",
+    "comparison": "Comparison with other distributions:",
+    "flavors": "Explore the official flavors of",
+    "quickInfo": "Quick Info",
+    "basedOn": "Based on",
+    "country": "Country",
+    "architecture": "Architecture",
+    "isoFile": "ISO File",
+    "downloadOfficial": "Download from Official Site",
+    "testDistro": "Test in Browser"
+  }
+}

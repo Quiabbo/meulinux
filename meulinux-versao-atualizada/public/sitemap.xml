@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- HOMEPAGE -->
+  <url>
+    <loc>https://meulinux.com/pt-br/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://meulinux.com/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://meulinux.com/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://meulinux.com/en/" />
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://meulinux.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://meulinux.com/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://meulinux.com/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://meulinux.com/en/" />
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- ABOUT -->
+  <url>
+    <loc>https://meulinux.com/pt-br/sobre</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://meulinux.com/pt-br/sobre" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://meulinux.com/en/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://meulinux.com/en/about" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://meulinux.com/en/about</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://meulinux.com/pt-br/sobre" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://meulinux.com/en/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://meulinux.com/en/about" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- CONTENT -->
+  <url>
+    <loc>https://meulinux.com/pt-br/conteudo</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://meulinux.com/pt-br/conteudo" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://meulinux.com/en/content" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://meulinux.com/en/content" />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://meulinux.com/en/content</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://meulinux.com/pt-br/conteudo" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://meulinux.com/en/content" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://meulinux.com/en/content" />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- CONTACT -->
+  <url>
+    <loc>https://meulinux.com/pt-br/contato</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://meulinux.com/pt-br/contato" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://meulinux.com/en/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://meulinux.com/en/contact" />
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://meulinux.com/en/contact</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://meulinux.com/pt-br/contato" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://meulinux.com/en/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://meulinux.com/en/contact" />
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- CONTRIBUTE -->
+  <url>
+    <loc>https://meulinux.com/pt-br/contribua</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://meulinux.com/pt-br/contribua" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://meulinux.com/en/contribute" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://meulinux.com/en/contribute" />
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://meulinux.com/en/contribute</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://meulinux.com/pt-br/contribua" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://meulinux.com/en/contribute" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://meulinux.com/en/contribute" />
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- POST-INSTALLATION -->
+  <url>
+    <loc>https://meulinux.com/pt-br/pos-instalacao</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://meulinux.com/pt-br/pos-instalacao" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://meulinux.com/en/post-installation" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://meulinux.com/en/post-installation" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://meulinux.com/en/post-installation</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://meulinux.com/pt-br/pos-instalacao" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://meulinux.com/en/post-installation" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://meulinux.com/en/post-installation" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- DISTROMATCH -->
+  <url>
+    <loc>https://meulinux.com/pt-br/distromatch</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://meulinux.com/pt-br/distromatch" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://meulinux.com/en/distromatch" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://meulinux.com/en/distromatch" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://meulinux.com/en/distromatch</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://meulinux.com/pt-br/distromatch" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://meulinux.com/en/distromatch" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://meulinux.com/en/distromatch" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>

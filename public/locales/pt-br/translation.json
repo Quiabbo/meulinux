@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "home": {
+      "title": "meuLinux | Encontre e baixe sua distro Linux",
+      "description": "Descubra o mundo Linux com o meuLinux. Encontre as melhores distribuições, guias de instalação, tutoriais pós-instalação e muito mais para iniciantes e usuários avançados."
+    },
+    "about": {
+      "title": "Sobre o meuLinux | Nossa Missão e História",
+      "description": "Conheça a história e a missão do meuLinux. Criado para simplificar o acesso ao mundo Linux através de curadoria, tutoriais e ferramentas inteligentes."
+    },
+    "content": {
+      "title": "Conteúdo Essencial | Tutoriais e Artigos",
+      "description": "Explore artigos de curadoria, tutoriais e guias essenciais criados para facilitar seu dia a dia no Linux."
+    },
+    "contact": {
+      "title": "Contato | Fale com a Gente",
+      "description": "Entre com contato conosco. Envie suas observações, dúvidas, elogios ou ideias de contribuições para a equipe."
+    },
+    "distromatch": {
+      "title": "DistroMatch | Recomendação de Distro de Linux",
+      "description": "Responda a perguntas estratégicas e deixe nosso algoritmo indicar a distribuição Linux perfeita para as suas necessidades de hardware e trabalho."
+    },
+    "contribua": {
+      "title": "Contribua | Apoie o Projeto meuLinux",
+      "description": "Ajude o meuLinux a manter seus servidores, expandir suas trilhas educacionais integradas com IA e continuar empoderando a comunidade."
+    },
+    "postinstall": {
+      "title": "Pós-Instalação | Configuração e Guia de Sistema",
+      "description": "Aprenda como configurar e otimizar todo o seu sistema de forma rápida e detalhada logo após instalar sua distro."
+    }
+  },
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "content": "Conteúdo",
+    "contact": "Contato",
+    "support": "Contribua",
+    "light_mode": "Modo Claro",
+    "dark_mode": "Modo Escuro",
+    "close_menu": "Fechar menu",
+    "open_menu": "Abrir menu",
+    "learn": "DistroMatch"
+  },
+  "hero": {
+    "title": "Encontre o Linux ideal",
+    "subtitle": "Descubra qual distro combina com você",
+    "searchPlaceholder": "Pesquisar distros Linux...",
+    "searchButton": "Pesquisar",
+    "beginnerText": "Novo no Linux?",
+    "beginnerLink": "DistroMatch",
+    "beginnerSubtext": "Para uma busca mais personalizada.",
+    "bannerAlt": "E-book Linux Descomplicado — Guia Definitivo | meuLinux.com",
+    "bannerTitle": "Baixe o e-book gratuito Linux Descomplicado",
+    "postDownloadTitle": "O que fazer depois de baixar sua distro?",
+    "viewArticle": "Saiba mais",
+    "distroListTitle": "Encontre e baixe sua distro Linux",
+    "backToTop": "Voltar ao topo",
+    "allDistros": "Todas as distros",
+    "learnMore": "Conhecer e Baixar",
+    "viewMore": "Ver mais distros",
+    "viewAll": "Ver todas as distros",
+    "personalizedSearch": "Quero fazer uma busca mais personalizada",
+    "learnButton": "Quero Aprender"
+  },
+  "categories": {
+    "All distros": "Todas as distros",
+    "Best to start": "Melhores para começar",
+    "PC Antigo": "PC Antigo",
+    "Programming": "Programação",
+    "Gaming": "Jogos",
+    "Hacking": "Hacking",
+    "Privacy": "Privacidade",
+    "Brasileiras": "Brasileiras"
+  },
+  "about": {
+    "hero_title": "Liberdade com Propósito",
+    "hero_subtitle": "Saiba mais sobre o projeto",
+    "main_text": "Criado em 2020 pelo desenvolvedor web e designer gráfico Filipi Hadji, o meuLinux nasceu com o propósito de simplificar o acesso a várias distros Linux, permitindo que os usuários encontrem facilmente a opção ideal para atender às suas necessidades. Com a ajuda de filtros inteligentes e tags eficientes, facilitamos a busca por distros Linux de forma fácil e simples.",
+    "quote": "Simplificamos o acesso a várias distros Linux",
+    "curation_text": "Realizamos constantemente uma curadoria cuidadosa, destacando as distros que se destacam e se adequam a cada usuário.",
+    "features_title": "Sobre as distros Linux",
+    "features": [
+      { "title": "Privacidade", "desc": "Privacidade robusta, código aberto e controle total ao seu alcance." },
+      { "title": "Desenvolvimento", "desc": "Desenvolvedores encontram liberdade, estabilidade e recursos avançados." },
+      { "title": "Comunidade", "desc": "Soluções colaborativas em fóruns, suporte e força na diversidade." },
+      { "title": "Customização", "desc": "Customização ilimitada, adapte seu sistema ao seu estilo único." }
+    ],
+    "footer_title": "Você está pronto para uma experiência verdadeiramente livre e personalizada?",
+    "footer_text": "Acreditamos em privacidade robusta, código aberto e controle total ao seu alcance. Explore nosso site e descubra uma variedade de opções. Desenvolvedores, designers, fotógrafos, editores de vídeo, estudantes e usuários em geral encontram estabilidade, recursos avançados e uma comunidade apaixonada pronta para ajudar.",
+    "footer_join": "Agora junte-se a nós e faça parte de uma jornada mais livre.",
+    "footer_button": "Acesse nosso Conteúdo Essencial",
+    "donation_title1": "Gostou do projeto?",
+    "donation_title2": "Que tal um café para o dev? ☕"
+  },
+  "contact": {
+    "title": "Contato",
+    "subtitle": "Que bom ter você por aqui!",
+    "contact_instruction": "Envie sua sugestão ou contribuição para este email:",
+    "email": "filipi.hadji.dsg@gmail.com",
+    "contact_thanks": "Muito obrigado pelo seu contato, responderei assim que puder.",
+    "donation_title1": "Gostou do projeto?",
+    "donation_title2": "Que tal um café para o dev? ☕"
+  },
+  "learn_linux": {
+    "hero_title": "Aprenda Linux & DevOps",
+    "hero_subtitle": "Do zero ao intermediário, com suporte em tempo real e certificado ao final de cada curso. Comece agora a sua jornada!",
+    "explore_tracks": "Acessar minha conta",
+    "create_account": "Criar Conta Grátis",
+    "tracks_title": "Nossas Trilhas de Aprendizado",
+    "tracks_subtitle": "Comece pela Trilha Essencial e desbloqueie especializações avançadas em Redes, Criptografia e Cibersegurança.",
+    "start_track": "Iniciar Trilha",
+    "coming_soon": "Em Breve",
+    "why_title": "Por que escolher o meuLinux?",
+    "features": [
+      { "title": "Conteúdo de Qualidade", "desc": "Curado por especialistas da indústria com cenários do mundo real." },
+      { "title": "Certificação", "desc": "Ganhe emblemas e certificados ao completar as etapas." },
+      { "title": "Suporte em Tempo Real", "desc": "Nosso tutor de IA está disponível 24 horas por dia, 7 dias por semana para ajudar com qualquer dúvida." },
+      { "title": "Progressão Clara", "desc": "Experiência gamificada que mantém você motivado." }
+    ],
+    "ready_title": "Pronto para Começar? É 100% Grátis!",
+    "ready_subtitle": "Junte-se a milhares de estudantes e comece sua jornada no mundo do Linux e DevOps hoje."
+  },
+  "footer": {
+    "tagline": "Simplificando o acesso a várias distros Linux desde 2020. Encontre sua liberdade digital aqui.",
+    "pages_heading": "Páginas",
+    "home": "Home",
+    "about": "Sobre",
+    "content": "Conteúdo",
+    "contact": "Contato",
+    "contribua": "Contribua",
+    "privacy": "Privacidade",
+    "terms": "Termos",
+    "social": "Redes Sociais",
+    "copyright": "© 2026 meuLinux. Todos os direitos reservados."
+  },
+  "detail": {
+    "notFound": "Conteúdo não disponível",
+    "backHome": "Ir para a Página Inicial",
+    "about": "Sobre o",
+    "desktopEnvironments": "Ambientes de desktop disponíveis:",
+    "mainFeatures": "Principais recursos:",
+    "packageManager": "Gerenciador de pacotes:",
+    "preInstalledSoftware": "Software pré-instalado:",
+    "hardwareCompatibility": "Compatibilidade de hardware:",
+    "communitySupport": "Comunidade e suporte:",
+    "comparison": "Comparação com outras distribuições:",
+    "flavors": "Conheça também os sabores do",
+    "quickInfo": "Informações Rápidas",
+    "basedOn": "Baseado em",
+    "country": "País",
+    "architecture": "Arquitetura",
+    "isoFile": "Arquivo ISO",
+    "downloadOfficial": "Baixar no site oficial",
+    "testDistro": "Testar distro"
+  }
+}

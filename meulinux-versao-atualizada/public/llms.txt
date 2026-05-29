@@ -1,0 +1,19 @@
+# meuLinux
+
+meuLinux is a hub dedicated to simplifying the vast GNU/Linux ecosystem, offering an expert curation of distributions to help users of all levels find the ideal choice for their needs. Our focus is to provide a clear and accessible experience, from distro selection to post-installation configuration.
+
+## Features and Functionalities
+
+*   **Linux Distribution Curation**: We carefully select the best Linux distributions, categorizing them and highlighting their key features to ease the user's choice. Our goal is to simplify access to and understanding of the Linux universe.
+
+*   **DistroMatch**: An interactive tool that acts as a personalized assistant. By answering a few simple questions about your hardware, experience level, and goals, DistroMatch suggests the Linux distributions that best align with your profile, eliminating decision complexity.
+
+*   **Personalized Post-Installation Guides**: After installing a new distribution, we provide detailed and specific guides for popular distros (such as Ubuntu, Debian, Linux Mint, Fedora, Kali Linux, Arch Linux, Zorin OS, and Pop!_OS). These guides offer step-by-step instructions to optimize and configure your newly installed system, ensuring a smooth and efficient experience.
+
+*   **Essential Content**: We offer fundamental articles and information about the GNU/Linux world, Free Software, and Open Source, helping users deepen their knowledge and understand the core principles governing this ecosystem.
+
+*   **Bilingual Support**: meuLinux is available in Portuguese (pt-br) and English (en), ensuring a global audience can access and benefit from our resources.
+
+## Our Commitment and Sustainability
+
+meuLinux is a 100% free project, with no ads or sponsors. We believe in freedom and the accessibility of knowledge. To keep the platform online, cover infrastructure costs, and continue developing new features, we rely on community support. Users who value our work can contribute voluntarily, helping to sustain and expand this valuable resource for everyone.

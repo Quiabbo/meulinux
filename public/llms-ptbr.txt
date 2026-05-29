@@ -1,0 +1,19 @@
+# meuLinux
+
+O meuLinux é um hub dedicado a simplificar o vasto ecossistema GNU/Linux, oferecendo uma curadoria especializada de distribuições para auxiliar usuários de todos os níveis a encontrar a opção ideal para suas necessidades. Nosso foco é proporcionar uma experiência clara e acessível, desde a escolha da distro até a configuração pós-instalação.
+
+## Recursos e Funcionalidades
+
+*   **Curadoria de Distribuições Linux**: Realizamos uma seleção cuidadosa das melhores distribuições Linux, categorizando-as e destacando suas características para facilitar a escolha do usuário. Nosso objetivo é simplificar o acesso e a compreensão do universo Linux.
+
+*   **DistroMatch**: Uma ferramenta interativa que atua como um assistente personalizado. Ao responder algumas perguntas simples sobre seu hardware, nível de experiência e objetivos, o DistroMatch sugere as distribuições Linux que melhor se alinham ao seu perfil, eliminando a complexidade da decisão.
+
+*   **Guias de Pós-Instalação Personalizados**: Após a instalação de uma nova distribuição, oferecemos guias detalhados e específicos para cada distro popular (como Ubuntu, Debian, Linux Mint, Fedora, Kali Linux, Arch Linux, Zorin OS e Pop!_OS). Esses guias fornecem um passo a passo para otimizar e configurar o sistema recém-instalado, garantindo uma experiência fluida e eficiente.
+
+*   **Conteúdo Essencial**: Disponibilizamos artigos e informações fundamentais sobre o mundo GNU/Linux, Software Livre e Open Source, ajudando os usuários a aprofundar seus conhecimentos e compreender os princípios que regem esse ecossistema.
+
+*   **Suporte Bilíngue**: O meuLinux está disponível em português (pt-br) e inglês (en), garantindo que uma audiência global possa acessar e se beneficiar de nossos recursos.
+
+## Nosso Compromisso e Sustentabilidade
+
+O meuLinux é um projeto 100% gratuito, livre de anúncios e patrocinadores. Acreditamos na liberdade e na acessibilidade do conhecimento. Para manter a plataforma no ar, cobrir os custos de infraestrutura e continuar desenvolvendo novas funcionalidades, contamos com o apoio da comunidade. Usuários que valorizam nosso trabalho podem contribuir voluntariamente, ajudando a sustentar e expandir este recurso valioso para todos.

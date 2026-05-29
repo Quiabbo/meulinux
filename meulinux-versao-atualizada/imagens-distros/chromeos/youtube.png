@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="google-site-verification" content="pkpgdLPYGjVqB826_QgpDarxKGZJlyc6hfxeRR06Fiw" />
+    <title>meuLinux | Encontre e baixe sua distro Linux</title>
+    <meta name="description" content="Descubra o mundo Linux com o meuLinux. Encontre as melhores distribuições, guias de instalação, tutoriais pós-instalação e muito mais para iniciantes e usuários avançados." />
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://meulinux.com/" />
+    <meta property="og:title" content="meuLinux | Encontre e baixe sua distro Linux" />
+    <meta property="og:description" content="Descubra o mundo Linux com o meuLinux. Encontre as melhores distribuições, guias de instalação, tutoriais pós-instalação e muito mais para iniciantes e usuários avançados." />
+    <meta property="og:image" content="https://meulinux.com/og-image.png" />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://meulinux.com/" />
+    <meta property="twitter:title" content="meuLinux | Encontre e baixe sua distro Linux" />
+    <meta property="twitter:description" content="Descubra o mundo Linux com o meuLinux. Encontre as melhores distribuições, guias de instalação, tutoriais pós-instalação e muito mais para iniciantes e usuários avançados." />
+    <meta property="twitter:image" content="https://meulinux.com/og-image.png" />
+
+    <link rel="canonical" href="https://meulinux.com/" />
+    <link rel="icon" type="image/jpeg" href="https://meulinux.com/wp-content/uploads/2023/11/cropped-300-32x32.jpg" />
+    <script type="module" crossorigin src="/assets/index-BmHlb-nc.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-C-aNHZP8.css">
+  </head>
+  <body>
+    <div id="root">
+      <!-- Pre-rendered content for SEO (will be replaced by React) -->
+      <div style="display:none">
+        <h1>meuLinux | Encontre e baixe sua distro Linux</h1>
+        <p>Descubra o mundo Linux com o meuLinux. Encontre as melhores distribuições, guias de instalação, tutoriais pós-instalação e muito mais.</p>
+        <nav>
+          <ul>
+            <li><a href="/ubuntu-linux">Ubuntu</a></li>
+            <li><a href="/linux-mint">Linux Mint</a></li>
+            <li><a href="/fedora-linux">Fedora</a></li>
+            <li><a href="/debian-linux">Debian</a></li>
+            <li><a href="/arch-linux">Arch Linux</a></li>
+            <li><a href="/conteudo">Conteúdo Essencial</a></li>
+            <li><a href="/distromatch">DistroMatch</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+    <noscript>
+      <div style="padding: 20px; text-align: center; font-family: sans-serif;">
+        <h1>JavaScript Necessário</h1>
+        <p>O meuLinux precisa de JavaScript para funcionar corretamente. Por favor, habilite o JavaScript no seu navegador para acessar todas as funcionalidades.</p>
+        <p>Você ainda pode navegar pelas nossas <a href="/sitemap.xml">páginas principais através do sitemap</a>.</p>
+      </div>
+    </noscript>
+  </body>
+</html>
+

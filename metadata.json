@@ -1,0 +1,8 @@
+{
+  "name": "meuLinux - Encontre o Linux ideal 10",
+  "description": "O portal definitivo e plataforma de aprendizado de distribuições Linux. Encontre, compare e baixe a distro Linux perfeita, e domine Linux e DevOps com nossas trilhas interativas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

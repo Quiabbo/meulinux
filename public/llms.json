@@ -1,0 +1,33 @@
+{
+  "name": "meuLinux",
+  "description": "A plataforma definitiva para descoberta e aprendizado de Linux no Brasil.",
+  "url": "https://meulinux.com",
+  "contact": "https://meulinux.com/contato",
+  "content": {
+    "distros": [
+      "ubuntu", "linux-mint", "pop-os", "zorin-os", "elementary-os", "deepin",
+      "manjaro", "fedora", "debian", "arch-linux", "open-suse", "solus",
+      "kali-linux", "parrot-os", "tails", "whonix", "qubes-os", "lubuntu",
+      "xubuntu", "linux-lite", "bodhi-linux", "puppy-linux", "peppermint-os",
+      "mx-linux", "anti-x", "ubuntu-mate", "kubuntu", "ubuntu-budgie",
+      "ubuntu-unity", "regata-os", "tiger-os", "mauna", "steam-os",
+      "endless-os", "br-os", "chrome-os-flex", "fyde-os", "red-hat",
+      "gentoo", "antix", "alpine", "void", "raspberry-pi-os", "black-arch",
+      "backbox", "tuxedo-os", "bazzite", "minios", "tinycore"
+    ],
+    "educational_topics": [
+      "gnu-linux", "software-livre", "open-source"
+    ],
+    "learning_paths": [
+      "essential", "networking", "cryptography", "cybersecurity"
+    ]
+  },
+  "features": [
+    "DistroMatch",
+    "IA Tutor",
+    "Post-Installation Guides",
+    "E-book",
+    "Supporters Wall"
+  ],
+  "language": "pt-BR"
+}
